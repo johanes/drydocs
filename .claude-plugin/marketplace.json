@@ -1,0 +1,15 @@
+{
+  "name": "cardio",
+  "owner": { "name": "johanes" },
+  "description": "Slim your CLAUDE.md into a lean index; move the detail into a well-organized docs/ folder that loads on demand (MOC + PARA + Zettelkasten). Non-destructive, idempotent, git-reversible.",
+  "plugins": [
+    {
+      "name": "drydocs",
+      "source": "./plugins/drydocs",
+      "description": "Slim your CLAUDE.md into a lean index; extract the detail into a well-organized docs/ folder using MOC + PARA + Zettelkasten. Idempotent, git-reversible, non-destructive.",
+      "version": "0.1.0",
+      "category": "documentation",
+      "keywords": ["claude-md", "context-engineering", "documentation", "tokens", "moc", "para", "zettelkasten"]
+    }
+  ]
+}
