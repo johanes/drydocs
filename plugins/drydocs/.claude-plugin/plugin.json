@@ -1,6 +1,6 @@
 {
   "name": "drydocs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Slim your CLAUDE.md into a lean index by extracting detail into a well-organized docs/ folder, using MOC + PARA + Zettelkasten. Idempotent, git-reversible, non-destructive.",
   "author": { "name": "johanes" },
   "homepage": "https://github.com/johanes/drydocs",
